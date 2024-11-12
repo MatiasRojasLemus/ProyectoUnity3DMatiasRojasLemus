@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlumTA\\ProyectoUnity3DMatiasRojasLemus\\ProyectoUnity3DMatiasRojasLemus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AlumTA\\ProyectoUnity3DMatiasRojasLemus\\ProyectoUnity3DMatiasRojasLemus\\Assets\\Free Stylized Skybox\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Free Stylized Skybox\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\AlumTA\\ProyectoUnity3DMatiasRojasLemus\\ProyectoUnity3DMatiasRojasLemus\\Assets\\Free Stylized Skybox\\ReadMe.txt",
+              "RelativeDocumentMoniker": "Assets\\Free Stylized Skybox\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\AlumTA\\ProyectoUnity3DMatiasRojasLemus\\ProyectoUnity3DMatiasRojasLemus\\Assets\\Free Stylized Skybox\\ReadMe.txt",
+              "RelativeToolTip": "Assets\\Free Stylized Skybox\\ReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-12T15:39:23.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
