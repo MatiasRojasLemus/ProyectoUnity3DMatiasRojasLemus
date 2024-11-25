@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
     public float jumpPower = 7f;
     public CharacterController playerController;
     public float gravityScale = 1f;
+    public Camera playerCamera;
     
     
     private Vector3 moveDirection;
@@ -39,5 +40,7 @@ public class PlayerController : MonoBehaviour
 
         moveDirection.y += Physics.gravity.y * Time.deltaTime * gravityScale;
         playerController.Move(moveDirection * Time.deltaTime);
+
+        transform.rotation = Quaternion.Euler(0f, playerCamera.transform.rotation.eulerAngles.y, 0f);
     }
 }
