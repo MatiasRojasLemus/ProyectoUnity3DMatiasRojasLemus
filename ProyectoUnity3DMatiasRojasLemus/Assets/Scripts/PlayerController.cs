@@ -14,6 +14,16 @@ public class PlayerController : MonoBehaviour
     private Vector3 moveDirection;
     private Vector3 jumpDirection;
     private float yStore;
+
+
+
+    //Posicion CheckPoint
+    private float posicionX;
+    private float posicionY;
+    private float posicionZ;
+
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -88,5 +98,26 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    private void OnTriggerEnter(Collider collider)
+    {
+        if (collider.gameObject.tag == "water")
+        {
+            animator.SetBool("isDead", true);
+        }
+    }
 
+    private void OnTriggerExit(Collider collider)
+    {
+        if (collider.gameObject.tag == "water")
+        {
+            animator.SetBool("isDead", false);
+        }
+        // Si entra en contacto con un Checkpoint, guarda la posición con la que ha entrado a dicho checkpoint
+        else if (collision.gameObject.tag == "CheckPoint")
+        {
+            posicionX = transPlayer.position.x;
+            posicionY = transPlayer.position.y;
+            posicionZ = transPlayer.position.z;
+        }
+    }
 }

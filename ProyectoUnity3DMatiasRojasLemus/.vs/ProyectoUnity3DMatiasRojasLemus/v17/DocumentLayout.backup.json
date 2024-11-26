@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A41E2AE7-AAC3-E477-1CDF-A24916C5A789}|Assembly-CSharp.csproj|c:\\users\\alumta\\proyectounity3dmatiasrojaslemus\\proyectounity3dmatiasrojaslemus\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A41E2AE7-AAC3-E477-1CDF-A24916C5A789}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AlumTA\\ProyectoUnity3DMatiasRojasLemus\\ProyectoUnity3DMatiasRojasLemus\\Assets\\Scripts\\GroundCheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GroundCheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,20 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GroundCheck.cs",
-              "DocumentMoniker": "C:\\Users\\AlumTA\\ProyectoUnity3DMatiasRojasLemus\\ProyectoUnity3DMatiasRojasLemus\\Assets\\Scripts\\GroundCheck.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundCheck.cs",
-              "ToolTip": "C:\\Users\\AlumTA\\ProyectoUnity3DMatiasRojasLemus\\ProyectoUnity3DMatiasRojasLemus\\Assets\\Scripts\\GroundCheck.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GroundCheck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T19:01:46.348Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +24,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Users\\AlumTA\\ProyectoUnity3DMatiasRojasLemus\\ProyectoUnity3DMatiasRojasLemus\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwC8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T19:17:27.078Z",
               "EditorCaption": ""
