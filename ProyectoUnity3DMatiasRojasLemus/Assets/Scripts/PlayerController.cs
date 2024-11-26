@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     public CharacterController playerController;
     public Camera playerCamera;
     public Animator animator;
+    public Transform transPlayer;
     
     
     private Vector3 moveDirection;
@@ -27,7 +28,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -106,9 +107,9 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private void OnTriggerExit(Collider collider)
+    private void OnTriggerExit(Collider collision)
     {
-        if (collider.gameObject.tag == "water")
+        if (collision.gameObject.tag == "water")
         {
             animator.SetBool("isDead", false);
         }
