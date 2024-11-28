@@ -1,0 +1,2172 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.46f1 (8e9b8558c41a) revision 9345925'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'es' Physical Memory: 7971 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.46f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/34654/ProyectoUnity3DMatiasRojasLemus/ProyectoUnity3DMatiasRojasLemus
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54415
+Successfully changed project path to: C:/Users/34654/ProyectoUnity3DMatiasRojasLemus/ProyectoUnity3DMatiasRojasLemus
+C:/Users/34654/ProyectoUnity3DMatiasRojasLemus/ProyectoUnity3DMatiasRojasLemus
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [5912]  Target information:
+
+Player connection [5912]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2189622071 [EditorId] 2189622071 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-OJ53L34I) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [5912]  * "[IP] 192.168.1.134 [Port] 0 [Flags] 2 [Guid] 2189622071 [EditorId] 2189622071 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-OJ53L34I) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [5912] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [5912] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+Refreshing native plugins compatible for Editor in 36.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.46f1 (8e9b8558c41a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/34654/ProyectoUnity3DMatiasRojasLemus/ProyectoUnity3DMatiasRojasLemus/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   Intel
+    VRAM:     3985 MB
+    Driver:   30.0.101.1404
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56188
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.46f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.014821 seconds.
+- Loaded All Assemblies, in  0.676 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.411 seconds
+Domain Reload Profiling: 1084ms
+	BeginReloadAssembly (213ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (28ms)
+	initialDomainReloadingComplete (141ms)
+	LoadAllAssembliesAndSetupDomain (227ms)
+		LoadAssemblies (208ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (223ms)
+			TypeCache.Refresh (221ms)
+				TypeCache.ScanAssembly (198ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (412ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (338ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (13ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (234ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.969 seconds
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.989 seconds
+Domain Reload Profiling: 3956ms
+	BeginReloadAssembly (325ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (77ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (81ms)
+	LoadAllAssembliesAndSetupDomain (1461ms)
+		LoadAssemblies (980ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (682ms)
+			TypeCache.Refresh (635ms)
+				TypeCache.ScanAssembly (596ms)
+			ScanForSourceGeneratedMonoScriptInfo (27ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (1989ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1156ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (125ms)
+			ProcessInitializeOnLoadAttributes (955ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 8.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3254 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (128.5 KB). Loaded Objects now: 3734.
+Memory consumption went from 131.1 MB to 130.9 MB.
+Total: 5.712200 ms (FindLiveObjects: 0.458600 ms CreateObjectMapping: 0.443600 ms MarkObjects: 4.571100 ms  DeleteObjects: 0.237100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3388345.996535 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '794dd9c8128f015d3bbf18e5ad536dc5') in 0.003283 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 14.794439 seconds.
+  path: Assets/modular_terrain_collection/modular_terrain_collection
+  artifactKey: Guid(33c80406218447e489e1bef6373a9891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/modular_terrain_collection using Guid(33c80406218447e489e1bef6373a9891) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '36bd06388f410496bc99a4c121346326') in 0.002257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.006479 seconds.
+  path: Assets/modular_terrain_collection/modular_terrain_collection/Materials_Modular_Terrain.mtl
+  artifactKey: Guid(6c69a336be9bdd24e85103ee84ba324c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/modular_terrain_collection/Materials_Modular_Terrain.mtl using Guid(6c69a336be9bdd24e85103ee84ba324c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1363dedc497a9e3a0d86a27b1abcb8f3') in 0.016027 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 13.305457 seconds.
+  path: Assets/Terrenos/New Terrain.asset
+  artifactKey: Guid(7983509a516f222428d5ce18aaf97b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrenos/New Terrain.asset using Guid(7983509a516f222428d5ce18aaf97b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b355d8c6b72fe79dee9d1d003ec9b7ab') in 0.016559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 521.535262 seconds.
+  path: Assets/Animated Robot by Quaternius/Preview.gif
+  artifactKey: Guid(e4e1a2472ded5d64ea9f8586628abefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated Robot by Quaternius/Preview.gif using Guid(e4e1a2472ded5d64ea9f8586628abefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd06a401f256370fb694110623c1659ea') in 0.410163 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.288784 seconds.
+  path: Assets/Animated Robot by Quaternius/Blend
+  artifactKey: Guid(33d4d0e4ba2b68f4e9b30533f5df2a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated Robot by Quaternius/Blend using Guid(33d4d0e4ba2b68f4e9b30533f5df2a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5c9a389166a1ff2576e9db0c2d4a5fb5') in 0.001764 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.432070 seconds.
+  path: Assets/Animated Robot by Quaternius/Blend/Robot.blend
+  artifactKey: Guid(3c44f4f028397044c9eda6fb261a1b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated Robot by Quaternius/Blend/Robot.blend using Guid(3c44f4f028397044c9eda6fb261a1b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e1049f07cf0f0d12a186d853e171fa12') in 0.002515 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.914126 seconds.
+  path: Assets/Animated Robot by Quaternius/FBX/Robot.fbx
+  artifactKey: Guid(200ffd35ac4320344a18ccd2a0dcf324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animated Robot by Quaternius/FBX/Robot.fbx using Guid(200ffd35ac4320344a18ccd2a0dcf324) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd45ce8ace1051f028bd233c27c6d2e77') in 0.787351 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 207
+========================================================================
+Received Import Request.
+  Time since last request: 42.113613 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Coconut_1.obj
+  artifactKey: Guid(c345006933ffd1946bba4b65c23238a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Coconut_1.obj using Guid(c345006933ffd1946bba4b65c23238a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '68097823f75e4805e9c11a3bdbf5b5d9') in 0.067766 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Docks_Straight_Supports.obj
+  artifactKey: Guid(f18b0de72070e9349a8e4ee743310560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Docks_Straight_Supports.obj using Guid(f18b0de72070e9349a8e4ee743310560) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '34e92643b224bea8487997412850bdad') in 0.089607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Starfish_2.obj
+  artifactKey: Guid(2c98059b4744c5e4392c80992b5664ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Starfish_2.obj using Guid(2c98059b4744c5e4392c80992b5664ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b5e8b92d21f075a7c0bbc4a1bc22f101') in 0.051641 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Docks_Corner_Supports.obj
+  artifactKey: Guid(edd5984accf9a0b4e84c3afb86648513) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Docks_Corner_Supports.obj using Guid(edd5984accf9a0b4e84c3afb86648513) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7bc411d0e0b6f9e17a9aef7f981a29fd') in 0.080267 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Docks_Straight.obj
+  artifactKey: Guid(3de5a01093aa79a41a41051dc29c373b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Docks_Straight.obj using Guid(3de5a01093aa79a41a41051dc29c373b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f310f40c7fcda207c46a7290cfac5d52') in 0.130188 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 36
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Docks_Steps.obj
+  artifactKey: Guid(29ec62a5c77a30c42a21299a5d5cc105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Docks_Steps.obj using Guid(29ec62a5c77a30c42a21299a5d5cc105) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e8d9ee7ed7afc9127f7b2c4872c4e722') in 0.135790 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 41
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Starfish_1.obj
+  artifactKey: Guid(742c9368865ecbc4f8f03dba4048d76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Starfish_1.obj using Guid(742c9368865ecbc4f8f03dba4048d76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a8c73c19e49b4606368266952847d066') in 0.049085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Tree_Palm_2.obj
+  artifactKey: Guid(4585b86c31aafba41bec9eda99351e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Tree_Palm_2.obj using Guid(4585b86c31aafba41bec9eda99351e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '06def5f043062efbea28e0ff058f700a') in 0.227854 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 77
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Tree_Palm_1.obj
+  artifactKey: Guid(93c9afca3f2318649b1778f18c90250e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Tree_Palm_1.obj using Guid(93c9afca3f2318649b1778f18c90250e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'af5310ac90cd844ea28b1e3314b7f72d') in 0.340498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 72
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Shell_2.obj
+  artifactKey: Guid(1340b7d40bb2f91488bf27cf386b6c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Shell_2.obj using Guid(1340b7d40bb2f91488bf27cf386b6c6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '30b84c0c6877c6a5e7f64e2661434812') in 0.065031 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Treasure_Chest.obj
+  artifactKey: Guid(cf194c67cfc5f0849b5cd80cef0c00d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Treasure_Chest.obj using Guid(cf194c67cfc5f0849b5cd80cef0c00d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c95857a6317a47e2593f0888ca29b749') in 0.135035 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 1.270685 seconds.
+  path: Assets/modular_terrain_collection/Beach_Prop_Tree_Palm_3.obj
+  artifactKey: Guid(c0bfb918b6e6d2945bb2851a532f6c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Prop_Tree_Palm_3.obj using Guid(c0bfb918b6e6d2945bb2851a532f6c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'aff29ace20c2db219ff7cedf0e78a2a1') in 0.261262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 77
+========================================================================
+Received Import Request.
+  Time since last request: 14.470535 seconds.
+  path: Assets/modular_terrain_collection/Beach_Terrain_Sand_Floor.obj
+  artifactKey: Guid(c03d8d874539944418d3949d09a7fab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Terrain_Sand_Floor.obj using Guid(c03d8d874539944418d3949d09a7fab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '26cd6bf0707d045062cde6486030a88e') in 0.064793 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/modular_terrain_collection/Beach_Terrain_Sand_Side_Gentle.obj
+  artifactKey: Guid(32fdf458b3dcd46489d3cd06fd13d586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Terrain_Sand_Side_Gentle.obj using Guid(32fdf458b3dcd46489d3cd06fd13d586) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2c9f12f93f9f857deec41afc3896e2db') in 0.063122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 2.016881 seconds.
+  path: Assets/modular_terrain_collection/Beach_Terrain_Sand_Side_Sharp.obj
+  artifactKey: Guid(cca78e7e91e9e024db8d75659e4b4f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Terrain_Sand_Side_Sharp.obj using Guid(cca78e7e91e9e024db8d75659e4b4f16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e64a8212f8d63e77954ed3d1b8f36692') in 0.053428 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/modular_terrain_collection/Beach_Terrain_Sand_Side_Shift_Sharp.obj
+  artifactKey: Guid(0d7c458266b3e9c43ba99e7af7e6aa58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Terrain_Sand_Side_Shift_Sharp.obj using Guid(0d7c458266b3e9c43ba99e7af7e6aa58) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e93e0f68bdbefce8fe655e4f62c2a353') in 0.049422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 4.700139 seconds.
+  path: Assets/modular_terrain_collection/Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Base.obj
+  artifactKey: Guid(ac84fcc7ab8a2dc45ac3ebe175f74a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Base.obj using Guid(ac84fcc7ab8a2dc45ac3ebe175f74a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '935e7819cc755c70ea82aa9192700eaf') in 0.064870 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Entrance_1.obj
+  artifactKey: Guid(1c827f86a3caf1b438789b535ce4b1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Entrance_1.obj using Guid(1c827f86a3caf1b438789b535ce4b1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ce136b4d2dd12f1487c5f962ef1f45a0') in 0.092526 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 16.339764 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Hanging_Cables_2.obj
+  artifactKey: Guid(6048f84daacdb6b42a11a415b40e1145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Hanging_Cables_2.obj using Guid(6048f84daacdb6b42a11a415b40e1145) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c8a368682cc65aa6279a4996814b24f5') in 0.073975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Railway_Bumpstop.obj
+  artifactKey: Guid(a1334494b2a53574089700c5112927c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Railway_Bumpstop.obj using Guid(a1334494b2a53574089700c5112927c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '24e0e289bd538b5289d5ea0ff4433d85') in 0.171507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 51
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Pick_Large.obj
+  artifactKey: Guid(0cda93d34bebf544e8e027b920ba3bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Pick_Large.obj using Guid(0cda93d34bebf544e8e027b920ba3bf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fa9bb4c2352f55f7c2f4b64124db0e7a') in 0.073933 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Railway_Hill_Sharp.obj
+  artifactKey: Guid(9c9ebf059ecc45441a2bf5ce0e35cbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Railway_Hill_Sharp.obj using Guid(9c9ebf059ecc45441a2bf5ce0e35cbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'be6b68d634bb8bae32b68663b024d9e5') in 0.138597 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 41
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Support_Ceiling_Beam_4.obj
+  artifactKey: Guid(85488c2f3553c354b99044b8607082c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Support_Ceiling_Beam_4.obj using Guid(85488c2f3553c354b99044b8607082c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3addb4046c33b0d74f96e2bc7aab01f0') in 0.060007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Stalagmite_Connected_Base.obj
+  artifactKey: Guid(8afecd88d86b39d45a401f864c58b625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Stalagmite_Connected_Base.obj using Guid(8afecd88d86b39d45a401f864c58b625) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9edc90a32650424b389883898e25b5b3') in 0.051161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Stalagmite_Normal.obj
+  artifactKey: Guid(2107d577f682173478d7f945bf384359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Stalagmite_Normal.obj using Guid(2107d577f682173478d7f945bf384359) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bbad68c3c8bfc8584e3a269c25901d1b') in 0.043011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Support_Ceiling_Beam_1.obj
+  artifactKey: Guid(2e69b89d9de32aa42b2fbe0ad72f71f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Support_Ceiling_Beam_1.obj using Guid(2e69b89d9de32aa42b2fbe0ad72f71f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ea3e9ca28df79c330d8cd1c68574ae3a') in 0.059529 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Stalagmite_Connected_Mid.obj
+  artifactKey: Guid(a406344a80e986d478495f171f330ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Stalagmite_Connected_Mid.obj using Guid(a406344a80e986d478495f171f330ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b6547794e4aec81dee153fd7bcc91f0c') in 0.050266 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Pick_Small.obj
+  artifactKey: Guid(beb59bb10fb45ea4890efda494b42be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Pick_Small.obj using Guid(beb59bb10fb45ea4890efda494b42be1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e5170901afe117b85c36c2633bda05a6') in 0.067541 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Support_Ceiling_Boards_3.obj
+  artifactKey: Guid(2130b455cb983174184f57a46644eedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Support_Ceiling_Boards_3.obj using Guid(2130b455cb983174184f57a46644eedc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bcf518af913f333990d590afcfbbe8cf') in 0.068871 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Support_Ceiling_Beam_2.obj
+  artifactKey: Guid(4cc6444559bdf694385a78ea8829dcb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Support_Ceiling_Beam_2.obj using Guid(4cc6444559bdf694385a78ea8829dcb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e156017afba0e2649b4f144fca135a2b') in 0.056573 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Stalagmite_Tiny.obj
+  artifactKey: Guid(6005e8b9bff457a439af2d37d9d93154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Stalagmite_Tiny.obj using Guid(6005e8b9bff457a439af2d37d9d93154) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2bc9d6b1c1e053ae87f7ddafbacc1155') in 0.054580 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 12.709808 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Support_Wall_Boards_1.obj
+  artifactKey: Guid(f7eb8b9bfa26ec444aac84de2ec6c099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Support_Wall_Boards_1.obj using Guid(f7eb8b9bfa26ec444aac84de2ec6c099) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '48eb88722bddcc6a3c05618c304d6590') in 0.091617 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Support_Wall_Pillar_3.obj
+  artifactKey: Guid(86d125605d2b3dc47abf7e31d5b0c52b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Support_Wall_Pillar_3.obj using Guid(86d125605d2b3dc47abf7e31d5b0c52b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd8235a7780e851dbb789a61719cd724d') in 0.059101 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/modular_terrain_collection/Cave_Prop_Support_Wall_Pillar_1.obj
+  artifactKey: Guid(14b7e64e7108f5144aaf26acebd71133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Prop_Support_Wall_Pillar_1.obj using Guid(14b7e64e7108f5144aaf26acebd71133) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3e69f3a7fb3a325c22c457a71c465359') in 0.058636 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.611663 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Corner_Inner_1x1_Base.obj
+  artifactKey: Guid(c9d645aaa6f151d47849854abc9085f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Corner_Inner_1x1_Base.obj using Guid(c9d645aaa6f151d47849854abc9085f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e127a24df776329b16f6be1cbd29d940') in 0.107300 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.343949 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Corner_Inner_2x2_Mid.obj
+  artifactKey: Guid(e4266a770d789db40897b222c39746ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Corner_Inner_2x2_Mid.obj using Guid(e4266a770d789db40897b222c39746ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f71e747f803fb383eb71a42b8d646712') in 0.062282 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Corner_Inner_3x3_Base.obj
+  artifactKey: Guid(a0139e08b9fb5ab40a66e72c078c1f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Corner_Inner_3x3_Base.obj using Guid(a0139e08b9fb5ab40a66e72c078c1f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4d5691f9d51f80e6628effdcac247f5f') in 0.063187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.001490 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Corner_Outer_1x1_Top.obj
+  artifactKey: Guid(53cfb178b5d602f469788e4f558d6156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Corner_Outer_1x1_Top.obj using Guid(53cfb178b5d602f469788e4f558d6156) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7e6cd8168b3b36f4869897da25947ac2') in 0.055331 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 1.232296 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Corner_Outer_2x2_Mid.obj
+  artifactKey: Guid(57da21f4551cbb5478fdc4d8b14a98c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Corner_Outer_2x2_Mid.obj using Guid(57da21f4551cbb5478fdc4d8b14a98c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '84c6a3b7f9b5d7ee46779f30f7f92ea8') in 0.089024 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.002064 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Corner_Outer_3x3_Mid.obj
+  artifactKey: Guid(3bcce6c12e7f44d458e7417da28a2cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Corner_Outer_3x3_Mid.obj using Guid(3bcce6c12e7f44d458e7417da28a2cd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '62b016537fb5b07f0ee7078d46cce4f9') in 0.049997 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 1.005015 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Flat_Round_Inner.obj
+  artifactKey: Guid(53cf66238c3537f43a490ec792c436e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Flat_Round_Inner.obj using Guid(53cf66238c3537f43a490ec792c436e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '06e50f4faee89b9a0a132a2b0f1f7e89') in 0.094259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.110710 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Floor_Raised.obj
+  artifactKey: Guid(77e81a3a849be194dac2e01233910b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Floor_Raised.obj using Guid(77e81a3a849be194dac2e01233910b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b2a40126865f9c25c2e6f7b8118b5245') in 0.076202 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Hill_Corner_Inner_4x4.obj
+  artifactKey: Guid(123580bcac618a6499980a87c1c85096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Hill_Corner_Inner_4x4.obj using Guid(123580bcac618a6499980a87c1c85096) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3e73f46a3f44f2fc018e3384301774c8') in 0.056203 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.576776 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Hill_Corner_Outer_4x4.obj
+  artifactKey: Guid(c18ea715d77c53b4f9d12a524b5a35d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Hill_Corner_Outer_4x4.obj using Guid(c18ea715d77c53b4f9d12a524b5a35d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3bcd2a86083324025bf0655509b30fde') in 0.054638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Hill_Side_Overlap_Side.obj
+  artifactKey: Guid(58a52a8ffa3977641bdb3c19267e612e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Hill_Side_Overlap_Side.obj using Guid(58a52a8ffa3977641bdb3c19267e612e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a0b787b0368c6b46e8942678b2f396a0') in 0.053366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.552778 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Hill_Side_Shift_Gentle.obj
+  artifactKey: Guid(fd77bccd090344c499b3deb5806ccbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Hill_Side_Shift_Gentle.obj using Guid(fd77bccd090344c499b3deb5806ccbf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '02f9fbb93510ca01730140e6c3354b79') in 0.058320 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.249746 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Hill_Transition_Gentle_Sharp_Flush_Crest.obj
+  artifactKey: Guid(52461fba5590fd1488b62a7ca6c05db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Hill_Transition_Gentle_Sharp_Flush_Crest.obj using Guid(52461fba5590fd1488b62a7ca6c05db4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '542af4ca0ed6649dbd5e788e77555532') in 0.091076 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.114875 seconds.
+  path: Assets/modular_terrain_collection/Cave_Terrain_Side_Mid.obj
+  artifactKey: Guid(24c15b57f3788fa4397f27ed19cca282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cave_Terrain_Side_Mid.obj using Guid(24c15b57f3788fa4397f27ed19cca282) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '27b0c0cb0ac5287d2f8725e0ddf4a402') in 0.068930 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.466364 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Prop_Bridge_Rope_Middle_Support.obj
+  artifactKey: Guid(e4c62e9526a896744b503332ead0b2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Prop_Bridge_Rope_Middle_Support.obj using Guid(e4c62e9526a896744b503332ead0b2c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd1f3835cdbe7e8be8cab26aa2e89bcab') in 0.124343 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 35
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Prop_Rock_1.obj
+  artifactKey: Guid(9fe0df83b3b725b4f963bf51b26205b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Prop_Rock_1.obj using Guid(9fe0df83b3b725b4f963bf51b26205b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4e232b8b5b534f4f0a25fe811328771b') in 0.052960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Prop_Rock_2.obj
+  artifactKey: Guid(4b1b804be0081254ca23047d89c4f009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Prop_Rock_2.obj using Guid(4b1b804be0081254ca23047d89c4f009) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f6f113f77d5598ef63da062b19d58d44') in 0.055280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Corner_Inner_1x1_Base.obj
+  artifactKey: Guid(eaf07a7cb8861b34ea0962675f75b7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Corner_Inner_1x1_Base.obj using Guid(eaf07a7cb8861b34ea0962675f75b7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a5a6511470c9bb20f2154e0f94bb1417') in 0.048596 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Corner_Inner_1x1_Top.obj
+  artifactKey: Guid(29b681b50dd66804d97999ee2b53bbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Corner_Inner_1x1_Top.obj using Guid(29b681b50dd66804d97999ee2b53bbe2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cf070b59b628c5c66248c3469eff1609') in 0.059859 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 1.416831 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Corner_Inner_2x2_Top.obj
+  artifactKey: Guid(31370de9d7b06c64695b1217b31c96bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Corner_Inner_2x2_Top.obj using Guid(31370de9d7b06c64695b1217b31c96bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '62a485b504bdabe8ca4d70a9c912c046') in 0.079217 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.711326 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Corner_Outer_1x1_Base.obj
+  artifactKey: Guid(3bd781f68f53da942ab86e912e265e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Corner_Outer_1x1_Base.obj using Guid(3bd781f68f53da942ab86e912e265e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '102ea81bbb9ef0dc5d8d98df4d62b0d2') in 0.057165 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Corner_Outer_2x2_Base.obj
+  artifactKey: Guid(888e58e280a68ea41b9a43c2b271b3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Corner_Outer_2x2_Base.obj using Guid(888e58e280a68ea41b9a43c2b271b3f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '620d03d3375d161eb1d32a65f9e63f04') in 0.055227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 15.318553 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Flower_Daisy.obj
+  artifactKey: Guid(a0b4c024b5546f9459d5c3b62b00d84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Flower_Daisy.obj using Guid(a0b4c024b5546f9459d5c3b62b00d84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd1d2c01ac1448c68ab2d6b3587d904bf') in 0.166451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 32
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Flower_Sunflower.obj
+  artifactKey: Guid(cd4360e541c36ef4482b8a7c22c6ade4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Flower_Sunflower.obj using Guid(cd4360e541c36ef4482b8a7c22c6ade4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cdddac4e41bc85fc9153b3b4a2cbd4f6') in 0.138252 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 27
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Flower_Lily_Pink.obj
+  artifactKey: Guid(41249e451b4e2c944b756a723d7da023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Flower_Lily_Pink.obj using Guid(41249e451b4e2c944b756a723d7da023) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f3c7357b3d380e12790a2ea0ee0a4ada') in 0.165534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 37
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Grass_Clump_4.obj
+  artifactKey: Guid(f13e8c4ea80c6b243af798c4f6185160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Grass_Clump_4.obj using Guid(f13e8c4ea80c6b243af798c4f6185160) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1adb113fada6d254fd410a1d54ec6c1e') in 0.130680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 35
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Mushroom_1.obj
+  artifactKey: Guid(7507327a10c8557429085f8b5d323f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Mushroom_1.obj using Guid(7507327a10c8557429085f8b5d323f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '812e111c464debd73ad67220ba2ba74c') in 0.098374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Ruins_Pillar_1.obj
+  artifactKey: Guid(3bd8f70c1f1f448468008b3415539662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Ruins_Pillar_1.obj using Guid(3bd8f70c1f1f448468008b3415539662) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '879340f2ccc09e6fb5688e0ca43d708a') in 0.038896 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Stepping_Stones_3.obj
+  artifactKey: Guid(10322d740f16f8a47bb139e22454e36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Stepping_Stones_3.obj using Guid(10322d740f16f8a47bb139e22454e36e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '886a111405ee227fe204f600e214ef7d') in 0.055176 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Ruins_Pillar_3.obj
+  artifactKey: Guid(7973899346188a64d9241827f48858d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Ruins_Pillar_3.obj using Guid(7973899346188a64d9241827f48858d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c3139892848f0fb51d46568ae731a010') in 0.067283 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Grass_Clump_3.obj
+  artifactKey: Guid(f4dba53b81ff67f40b549da988092f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Grass_Clump_3.obj using Guid(f4dba53b81ff67f40b549da988092f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7947f2df07b587281bc20cb17cf78c28') in 0.116989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 30
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Ruins_Pillar_4.obj
+  artifactKey: Guid(18d0e4c6b6cfd2042ba108a2329ab61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Ruins_Pillar_4.obj using Guid(18d0e4c6b6cfd2042ba108a2329ab61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '48d0d2035f24a07b0d0a9f789e18c585') in 0.079330 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Flower_Rose.obj
+  artifactKey: Guid(39ba6d0f5e616a24389c85cf1f59c785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Flower_Rose.obj using Guid(39ba6d0f5e616a24389c85cf1f59c785) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a72de7367033f6eb16805b681a4a6ff5') in 0.170349 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 46
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Ruins_Pillar_2.obj
+  artifactKey: Guid(cf28cdf27f0926841a5c3529a5dbeaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Ruins_Pillar_2.obj using Guid(cf28cdf27f0926841a5c3529a5dbeaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '222abbafd52eb76c38b6ab0e0c7fc2e7') in 0.061889 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 5.263932 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Corner_Outer_2x2_Top.obj
+  artifactKey: Guid(5fe07055de9e6fb4eb358683bbe345eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Corner_Outer_2x2_Top.obj using Guid(5fe07055de9e6fb4eb358683bbe345eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '091f62205000f945cfe093d6d92057b5') in 0.075426 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Hill_Base_Top_Joined_Sharp.obj
+  artifactKey: Guid(aca8b7a7749f5d9488fb0c790f2f2f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Hill_Base_Top_Joined_Sharp.obj using Guid(aca8b7a7749f5d9488fb0c790f2f2f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cfb9ee9a3e18a2a6b037a9a979575f91') in 0.063144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.503380 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Hill_Gentle_Top.obj
+  artifactKey: Guid(19f8799ba0059e848ad03a54f5a58367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Hill_Gentle_Top.obj using Guid(19f8799ba0059e848ad03a54f5a58367) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b0d1f5555cb9c913c6f5a47ae1c0739f') in 0.070849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Path_Steps_Edge.obj
+  artifactKey: Guid(ff2c77bfdf45f87488ebeeddc7817a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Path_Steps_Edge.obj using Guid(ff2c77bfdf45f87488ebeeddc7817a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1aadc82ef20d4d30df60556f637dc76d') in 0.066804 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Path_Steps_Center_Top.obj
+  artifactKey: Guid(846c0e88511a4844ba3b18b1acb7e847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Path_Steps_Center_Top.obj using Guid(846c0e88511a4844ba3b18b1acb7e847) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '684a4d9fca5e008b2ed32f5731e3e8a8') in 0.075102 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.788355 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Side_Falloff_Center.obj
+  artifactKey: Guid(07251328d708cee498c88eb9e7b5b32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Side_Falloff_Center.obj using Guid(07251328d708cee498c88eb9e7b5b32e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bba455011e4cd240bdbec0ee68e32864') in 0.081929 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Waterfall_Mid.obj
+  artifactKey: Guid(ac9142838f78ac74e98643b8ff82d4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Waterfall_Mid.obj using Guid(ac9142838f78ac74e98643b8ff82d4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6170139d0401b5dc5cff1a53971dab8d') in 0.056672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Side_Mid.obj
+  artifactKey: Guid(3451654f198a83641bc0079d338e8a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Side_Mid.obj using Guid(3451654f198a83641bc0079d338e8a2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '36ffe01f6ae928e046e5785a43ef7000') in 0.054109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 1.620758 seconds.
+  path: Assets/modular_terrain_collection/Cliff_Terrain_Waterfall_Water_Mid_Edge.obj
+  artifactKey: Guid(5b0fe27225169b64ebc913b88883e45b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Cliff_Terrain_Waterfall_Water_Mid_Edge.obj using Guid(5b0fe27225169b64ebc913b88883e45b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8554abed9b67bb2398c1f38838d15997') in 0.058951 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Inner_1x1_Base.obj
+  artifactKey: Guid(e7468bae7401d5843a94409adede3cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Inner_1x1_Base.obj using Guid(e7468bae7401d5843a94409adede3cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '19ace75d3e79272eab73885cd66eb9d2') in 0.051289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Inner_1x1_Mid.obj
+  artifactKey: Guid(221bc69efaf70144fa6dd6514416ea9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Inner_1x1_Mid.obj using Guid(221bc69efaf70144fa6dd6514416ea9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3d3f8fbd41a2e1110083dce3aa1362c8') in 0.057937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 5.362193 seconds.
+  path: Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Inner_3x3_Base.obj
+  artifactKey: Guid(88fc0474882faa945983a1d5e2a09361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Inner_3x3_Base.obj using Guid(88fc0474882faa945983a1d5e2a09361) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '86c1d9ff13d2282d8dd730bd9d6b2ded') in 0.062815 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Outer_2x2_Base.obj
+  artifactKey: Guid(553b7e3f09f242640938b80349b1b79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Outer_2x2_Base.obj using Guid(553b7e3f09f242640938b80349b1b79a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '77cbb254e49c40caf5b833297d9788bf') in 0.071921 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Inner_3x3_Top.obj
+  artifactKey: Guid(431b6561372201341af8cf00a5b1e84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Inner_3x3_Top.obj using Guid(431b6561372201341af8cf00a5b1e84a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '871ec2f893d3b3efecfc29901cab374d') in 0.069015 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.786077 seconds.
+  path: Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Outer_3x3_Mid.obj
+  artifactKey: Guid(cf2bafc826d0d764291cce2ac4fc242a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Escarpment_Terrain_Corner_Outer_3x3_Mid.obj using Guid(cf2bafc826d0d764291cce2ac4fc242a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e351d21bb11f854a7265f9af507b558f') in 0.059657 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/modular_terrain_collection/Escarpment_Terrain_Hill_Top.obj
+  artifactKey: Guid(b735c6377b8c76240a4615f63990e8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Escarpment_Terrain_Hill_Top.obj using Guid(b735c6377b8c76240a4615f63990e8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5e0f54b9121ea363c3b7c54426c443d4') in 0.074266 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/modular_terrain_collection/Escarpment_Terrain_Hill_Base.obj
+  artifactKey: Guid(ce26969a367af664c915cd1b95ba8956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Escarpment_Terrain_Hill_Base.obj using Guid(ce26969a367af664c915cd1b95ba8956) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd3506c404f110302c1d27de4d452f2b6') in 0.070272 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.197358 seconds.
+  path: Assets/modular_terrain_collection/Escarpment_Terrain_Side_Top.obj
+  artifactKey: Guid(677c485eb9818dd49a7f488ee5242cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Escarpment_Terrain_Side_Top.obj using Guid(677c485eb9818dd49a7f488ee5242cd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ba5c0ed75d33a2690e633c393d04eddd') in 0.112091 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000868 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Bridge_Log_Middle.obj
+  artifactKey: Guid(e92e61f065067f9479dc49d8516f01e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Bridge_Log_Middle.obj using Guid(e92e61f065067f9479dc49d8516f01e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e7efd96a494a4281529f5c23b25cccda') in 0.105927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Bush_3.obj
+  artifactKey: Guid(42ab4403a4fff6346ba5996fb546de25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Bush_3.obj using Guid(42ab4403a4fff6346ba5996fb546de25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e5a0f318b9016610514f0d40188676ed') in 0.057146 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Bush_4.obj
+  artifactKey: Guid(08a53c894f41cdf49800517b013e0467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Bush_4.obj using Guid(08a53c894f41cdf49800517b013e0467) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4cf03d2fcb33ff30dcb18befa8f43d13') in 0.062131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Branch_2.obj
+  artifactKey: Guid(d6ca3df296aab67418bf540484cc6504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Branch_2.obj using Guid(d6ca3df296aab67418bf540484cc6504) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '90a8e0f31769aa7d7bc9d679aef65038') in 0.072680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Camp_Lean_To.obj
+  artifactKey: Guid(eed3efef6ed03ee45a132ad2a154f52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Camp_Lean_To.obj using Guid(eed3efef6ed03ee45a132ad2a154f52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7571433006946c653c95635693fd3ab6') in 0.312327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 78
+========================================================================
+Received Import Request.
+  Time since last request: 0.607191 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Cattail_1.obj
+  artifactKey: Guid(aaf122ddd28c75d4f976132b04f64ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Cattail_1.obj using Guid(aaf122ddd28c75d4f976132b04f64ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4cb4aa541069fcc04f662ac8e2e92e8a') in 0.120783 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Fence_Boards_1.obj
+  artifactKey: Guid(332cf8f0694a2234ab90066500946d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Fence_Boards_1.obj using Guid(332cf8f0694a2234ab90066500946d7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b0eff443f7723d8b16d1dbcff8dbacba') in 0.078284 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Fence_Boards_4.obj
+  artifactKey: Guid(f5e7200c0865e564f948395bf0a51f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Fence_Boards_4.obj using Guid(f5e7200c0865e564f948395bf0a51f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6d710eedc6c7240d0ab10814c2f392d4') in 0.074040 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Fence_Boards_2.obj
+  artifactKey: Guid(6fd6330779a21cb4ba3aa8145669bf24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Fence_Boards_2.obj using Guid(6fd6330779a21cb4ba3aa8145669bf24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f559849ccfef3fface5f449d4e00554c') in 0.069901 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.762164 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Fence_Gate_1.obj
+  artifactKey: Guid(d41c36baae9804c4d816e2c9170715ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Fence_Gate_1.obj using Guid(d41c36baae9804c4d816e2c9170715ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '16fb603579faba8f6e9ca948bb2dfe78') in 0.185880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 46
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Fence_Hill_Gentle.obj
+  artifactKey: Guid(9b73d360d3a34f04f8603c3610b0f3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Fence_Hill_Gentle.obj using Guid(9b73d360d3a34f04f8603c3610b0f3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7185dbc0916b0cfd0ba86e269b50273c') in 0.228206 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 56
+========================================================================
+Received Import Request.
+  Time since last request: 2.570597 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Stepping_Stones_7.obj
+  artifactKey: Guid(83ffcfe947c6a3742bb2170bf98147fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Stepping_Stones_7.obj using Guid(83ffcfe947c6a3742bb2170bf98147fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '89516e9d4cc4d3b6d1bf4495e3021141') in 0.093324 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Tree_Oak_1.obj
+  artifactKey: Guid(989d42331e35f5f42b32fbdc0dcaa66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Tree_Oak_1.obj using Guid(989d42331e35f5f42b32fbdc0dcaa66d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ee9ab72ec276612ac402756f99a0ebe7') in 0.085262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Tree_Cedar_1.obj
+  artifactKey: Guid(17d6647f15bf09d4a9706c6e575d502e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Tree_Cedar_1.obj using Guid(17d6647f15bf09d4a9706c6e575d502e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '93905152992c15155079be0a11712b8a') in 0.088162 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Hill_Corner_Inner_2x2.obj
+  artifactKey: Guid(99c81dfa78479284abb7ffd7143ada28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Hill_Corner_Inner_2x2.obj using Guid(99c81dfa78479284abb7ffd7143ada28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4326adb2566c42375517f7a784565c8b') in 0.070119 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Hill_Corner_Inner_3x3.obj
+  artifactKey: Guid(3670898762eebf64fb33d6c465ba9095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Hill_Corner_Inner_3x3.obj using Guid(3670898762eebf64fb33d6c465ba9095) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '62e8f1595c1b04ab4b267f0348a4ccc9') in 0.056555 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Prop_Tree_Oak_4.obj
+  artifactKey: Guid(7b3931c9a3b01f44bb00e2705506cc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Prop_Tree_Oak_4.obj using Guid(7b3931c9a3b01f44bb00e2705506cc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0df05d8dc115e6c46c3ab3668146019e') in 0.121425 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.952071 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Hill_Corner_Outer_4x4.obj
+  artifactKey: Guid(b138494526e89e649862ca43de3be63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Hill_Corner_Outer_4x4.obj using Guid(b138494526e89e649862ca43de3be63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7ad19090fd4225e44530947c6f2b2837') in 0.065936 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Hill_Side_Shift_Sharp.obj
+  artifactKey: Guid(f4e5cca0fd7b740488f452f24ab50748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Hill_Side_Shift_Sharp.obj using Guid(f4e5cca0fd7b740488f452f24ab50748) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3ee2cd5f7c58dd03064658887f9f61d4') in 0.072365 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Hill_Side_Overlap_Side.obj
+  artifactKey: Guid(e9d706444618c05449921c459c63696b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Hill_Side_Overlap_Side.obj using Guid(e9d706444618c05449921c459c63696b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b72f32e5cace52788ca647c9fe1b5225') in 0.065947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.551859 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Path_Center.obj
+  artifactKey: Guid(b372a8481a4ea2d4fbd02727445290c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Path_Center.obj using Guid(b372a8481a4ea2d4fbd02727445290c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd34019fcaa6686592653bdad68de06f2') in 0.060113 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Path_Corner_Outer_1x1.obj
+  artifactKey: Guid(f3de16f05d1f51b4dace6360c48827bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Path_Corner_Outer_1x1.obj using Guid(f3de16f05d1f51b4dace6360c48827bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ff08f9bf23e8f844a774aa86bd9d3043') in 0.072506 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Path_Corner_Inner_2x2.obj
+  artifactKey: Guid(1bc542f8a769f3d48a124ebe9eba09b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Path_Corner_Inner_2x2.obj using Guid(1bc542f8a769f3d48a124ebe9eba09b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '83c3eef5e7432243a412672b73cb9504') in 0.073924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 1.221087 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Path_Corner_Y_3x3.obj
+  artifactKey: Guid(2958de38241fde040a57122c44098d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Path_Corner_Y_3x3.obj using Guid(2958de38241fde040a57122c44098d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8da040de8e263c01263c9629c59206fb') in 0.074941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Path_Hill_Gentle_Plain_Side.obj
+  artifactKey: Guid(69a58a266e7cf724ebd9575dabc617a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Path_Hill_Gentle_Plain_Side.obj using Guid(69a58a266e7cf724ebd9575dabc617a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ec38d7c9776b42d0d7c32891390cc5f9') in 0.076772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.001085 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Path_Hill_Sharp_Plain_Center.obj
+  artifactKey: Guid(12e6a2c411f876243aef9ae7eb48161f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Path_Hill_Sharp_Plain_Center.obj using Guid(12e6a2c411f876243aef9ae7eb48161f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7183b6c230f5032b7c856da57649f7d6') in 0.064704 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/modular_terrain_collection/Hilly_Terrain_Water_Slope.obj
+  artifactKey: Guid(3e7e2003ba90b3441bde0f79059a3ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Hilly_Terrain_Water_Slope.obj using Guid(3e7e2003ba90b3441bde0f79059a3ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ed28338c0901aeb6f4933cc8248a72f0') in 0.066028 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/modular_terrain_collection/Mountain_3.obj
+  artifactKey: Guid(603bb7a388e570447a4fa3cfb894f180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Mountain_3.obj using Guid(603bb7a388e570447a4fa3cfb894f180) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '07320f6b2cdc9f43cb78c129a0297ffb') in 0.065784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/modular_terrain_collection/Mountain_1.obj
+  artifactKey: Guid(5ef8d1f9c1470fd4caeb094b62d287d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Mountain_1.obj using Guid(5ef8d1f9c1470fd4caeb094b62d287d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cc2b5198e6f9fe380a95020606585cbf') in 0.059732 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.347740 seconds.
+  path: Assets/modular_terrain_collection/Shared_Prop_Boulder_2.obj
+  artifactKey: Guid(d63c405984813a540aa64fb0fcefc850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Shared_Prop_Boulder_2.obj using Guid(d63c405984813a540aa64fb0fcefc850) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '456b3224b845f7b0a79e9762a58d0645') in 0.087983 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/modular_terrain_collection/Shared_Terrain_Dirt_Gathered_Corner.obj
+  artifactKey: Guid(4e702159fd45c4144bc0f1bfd2b49b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/modular_terrain_collection/Shared_Terrain_Dirt_Gathered_Corner.obj using Guid(4e702159fd45c4144bc0f1bfd2b49b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '34836c7c3e7dca49b1dae53767345aef') in 0.080185 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
